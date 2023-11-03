@@ -1,4 +1,4 @@
-## Check out [EssentialCSharp](EssentialCSharp.com) online at [EssentialCSharp.com](EssentialCSharp.com)
+## Check out [EssentialCSharp](https://EssentialCSharp.com) online at [EssentialCSharp.com](https://EssentialCSharp.com)
 
 <!--
 
